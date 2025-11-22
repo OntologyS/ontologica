@@ -1,4 +1,3 @@
-```markdown
 # CONCEPT.md — Enhanced Direct Actualization Interface (DAI v2.0)
 
 ## 1. Enhanced Philosophical Memorandum of DAI
@@ -181,4 +180,3 @@ We are creating an educational interface for consciousness evolution.**
 ---
 
 **Enhanced DAI represents the next evolutionary step in consciousness-reality interaction — not as a tool for control, but as a partner in the eternal educational journey from potential to creative mastery, honoring the fundamental principles that make reality a coherent, educational, and endlessly fascinating experience.**
-```
