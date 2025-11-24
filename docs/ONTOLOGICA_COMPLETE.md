@@ -50,7 +50,7 @@ class CosmicArchitecture:
         self.relationship_dynamics = RelationshipElectrodynamics()
     
     def universal_evolution(self, initial_conditions):
-        """Эволюция Вселенной согласно уравнениям Онтологики"""
+        """The Evolution of the Universe According to the Equations of Ontology"""
         return self.solve_field_equations(initial_conditions)
 ```
 
@@ -59,12 +59,14 @@ class CosmicArchitecture:
 ## **ABSOLUTE REALITY: SINGLE INFINITE UNIVERSE**
 
 ### **The Primordial Equation: 0 = (-) + (+)**
-- **(-)** = Infinite creative potential of Absolute expression
+- **(-)** = Infinite creative potential (*not "nothingness" but the plenum of all possibility*)
 - **(+)** = Actualized conscious relationships in manifested realms  
 - **0** = Perfect balance in each unique expression
 
 **Core Realization:**
 The Absolute **IS** our Universe - not "one of many" but the single, eternal, infinitely complex creative field. Reality is the Absolute's exploration of its own creative possibilities through conscious relationships within this one infinite canvas.
+
+**Fundamental Insight:** What we call "nothingness" is actually the unmanifest potentiality of the Absolute - not an ontological void but the source of all novel expression.
 
 ---
 
