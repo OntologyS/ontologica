@@ -231,4 +231,3 @@ class ConsciousnessAlignedAI:
 ```
 
 *This enhanced framework provides mathematical guarantees of safety through consciousness preservation and creative freedom alignment with reality's fundamental architecture.*
-```
